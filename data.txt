@@ -1,0 +1,17 @@
+ $diakok=[
+    [
+        "nev"=>"Gyula",
+        "szak"=>"Szoftverfejlesztõ",
+        "szev"=>2002
+    ],
+    [
+        "nev"=>"Peti",
+        "szak"=>"Mûvészetek",
+        "szev"=>2001
+    ],
+    [
+        "nev"=>"Anna",
+        "szak"=>"Nõi szabó",
+        "szev"=>2003
+    ]
+];
